@@ -23,7 +23,7 @@ This project integrates a mobile app with a BLE-powered IoT actuator to guide us
 
 ## 🧠 Circuit Diagram
 
-![Circuit Diagram](./A_schematic_circuit_diagram.png)
+![Circuit Diagram](./nose.png)
 
 ---
 
