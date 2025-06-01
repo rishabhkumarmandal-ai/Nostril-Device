@@ -82,5 +82,5 @@ MIT License
 
 ## 🙌 Acknowledgments
 
-This project is part of a holistic wellness and breath-control automation initiative. Built with ❤️ by [Your Name / Team].
+This project is part of a holistic wellness and breath-control automation initiative. Built with 
 
